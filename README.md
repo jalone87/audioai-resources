@@ -17,6 +17,7 @@
 
 - https://github.com/libAudioFlux/audioFlux
 - https://github.com/librosa/librosa
+- https://github.com/cuthbertLab/music21/ symbolic composition analysis
 
 ### Swift
 
