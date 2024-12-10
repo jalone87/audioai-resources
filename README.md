@@ -22,6 +22,7 @@
 ### Swift
 
 - https://github.com/AudioKit/AudioKit
+- https://github.com/dmrschmidt/DSWaveformImage plot
 
 
 ## Courses
